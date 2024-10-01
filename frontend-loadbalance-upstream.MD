@@ -1,4 +1,4 @@
-**keep this folder in linux server path**
+*keep this folder in linux server path*
 **keep under http block**
 ```
 vim /etc/nginx/nginx.conf
